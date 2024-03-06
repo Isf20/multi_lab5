@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "Grounds1",
+  "identifier": "texture:3326-4242c62a-2321-4c61-8e2a-e92c067ce383",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "1e4abf9ae362d643ee9b806503337c75",
+  "assetLocator": "textures/Grounds1.jpg",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 575,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "1e4abf9ae362d643ee9b806503337c75",
+      "colorCount": 21691,
+      "detectedAlphaChannel": "no_alpha",
+      "detectedOriginalFormat": "jpeg",
+      "entropyOfDistribution": 11.87443280169557,
+      "pixelsHigh": 575,
+      "pixelsWide": 1024
+    }
+  ]
+}
