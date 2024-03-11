@@ -33,7 +33,7 @@
   "projectFormatType": "separated_files",
   "usingPatchesV2": true,
   "visual_programming": {
-    "sectionFileLocation": "CS-222-Lab5.patches"
+    "sectionFileLocation": "multi_Lab5.patches"
   },
   "children": [
     {
@@ -723,6 +723,9 @@
         },
         {
           "sectionFileLocation": "textures/download (9).texture"
+        },
+        {
+          "sectionFileLocation": "textures/386472105_261346012996896_4904621267207888986_n(1).texture"
         }
       ]
     },
@@ -772,7 +775,7 @@
       ]
     },
     {
-      "sectionFileLocation": "CS-222-Lab5.scene"
+      "sectionFileLocation": "multi_Lab5.scene"
     },
     {
       "modelName": "layers",

@@ -729,7 +729,7 @@
                           "textureWidth": 0.1,
                           "transform": {
                             "rx": 0,
-                            "ry": -0,
+                            "ry": 0,
                             "rz": 0,
                             "sx": 1.5,
                             "sy": 2,
@@ -867,7 +867,7 @@
                           "textureWidth": 0.1,
                           "transform": {
                             "rx": 0,
-                            "ry": -0,
+                            "ry": 0,
                             "rz": 0,
                             "sx": 1.5,
                             "sy": 2,
